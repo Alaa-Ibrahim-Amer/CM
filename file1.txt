@@ -3,3 +3,4 @@ now i am adding this line from the branch
 eod from branch
 line one branch after going to github
 line two will use only git push without up-stream
+for merging from main to branch
